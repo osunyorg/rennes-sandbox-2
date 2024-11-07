@@ -2,19 +2,13 @@
 
 fr:
   title: >-
-    Sandbox 2
+    Sandbox - Thématique 1
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   params:
     social:
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
