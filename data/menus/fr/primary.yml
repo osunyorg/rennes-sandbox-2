@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Projets urbains
-    target: "/informations-pratiques/projets-urbains/"
+    target: "/projets-urbains/"
     kind: page
     children: []
 - title: Vie politique
