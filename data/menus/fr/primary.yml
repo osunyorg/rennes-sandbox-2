@@ -13,4 +13,8 @@ items:
     target: "/se-loger/"
     kind: page
     children: []
+  - title: Urbanisme
+    target: "/urbanisme/"
+    kind: page
+    children: []
 
