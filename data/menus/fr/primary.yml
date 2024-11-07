@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Informations pratiques
-    target: "/informations-pratiques/"
-    kind: page
+    target: ''
+    kind: blank
     children: []
 
