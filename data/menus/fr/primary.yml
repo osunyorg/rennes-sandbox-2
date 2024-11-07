@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Informations pratiques
-  target: "/informations-pratiques/"
-  kind: page
+  target: ''
+  kind: blank
   children: []
 - title: Vie politique
   target: "/vie-politique/"
