@@ -4,11 +4,11 @@ items:
 - title: Informations pratiques
   target: ''
   kind: blank
-  children: []
-- title: Vie politique
-  target: "/vie-politique/"
-  kind: page
-  children: []
+  children:
+  - title: Vie politique
+    target: "/vie-politique/"
+    kind: page
+    children: []
 - title: Se loger
   target: "/informations-pratiques/se-loger/"
   kind: page
