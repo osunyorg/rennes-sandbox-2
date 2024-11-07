@@ -13,4 +13,8 @@ items:
   target: "/vie-politique/"
   kind: page
   children: []
+- title: Urbanisme
+  target: "/informations-pratiques/urbanisme/"
+  kind: page
+  children: []
 
