@@ -17,4 +17,8 @@ items:
     target: "/urbanisme/"
     kind: page
     children: []
+  - title: Projets urbains
+    target: "/projets-urbains/"
+    kind: page
+    children: []
 
