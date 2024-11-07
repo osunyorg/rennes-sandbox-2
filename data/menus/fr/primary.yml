@@ -9,16 +9,16 @@ items:
     target: "/informations-pratiques/se-loger/"
     kind: page
     children: []
-- title: Urbanisme
-  target: "/informations-pratiques/urbanisme/"
-  kind: page
-  children: []
+  - title: Urbanisme
+    target: "/informations-pratiques/urbanisme/"
+    kind: page
+    children: []
+  - title: Projets urbains
+    target: "/informations-pratiques/projets-urbains/"
+    kind: page
+    children: []
 - title: Vie politique
   target: "/vie-politique/"
-  kind: page
-  children: []
-- title: Projets urbains
-  target: "/informations-pratiques/projets-urbains/"
   kind: page
   children: []
 
