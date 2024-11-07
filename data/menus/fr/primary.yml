@@ -5,4 +5,8 @@ items:
   target: "/vie-politique/"
   kind: page
   children: []
+- title: Informations pratiques
+  target: ''
+  kind: blank
+  children: []
 
