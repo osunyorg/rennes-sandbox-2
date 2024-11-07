@@ -9,4 +9,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Informations pratiques
+  target: "/informations-pratiques/"
+  kind: page
+  children: []
 
