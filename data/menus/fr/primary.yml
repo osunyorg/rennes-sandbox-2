@@ -8,5 +8,9 @@ items:
 - title: Informations pratiques
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Se loger
+    target: "/se-loger/"
+    kind: page
+    children: []
 
