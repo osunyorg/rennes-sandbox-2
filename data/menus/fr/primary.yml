@@ -1,12 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Vie politique
-  target: "/vie-politique/"
-  kind: page
-  children:
-  - title: Informations pratiques
-    target: ''
-    kind: blank
-    children: []
+items: []
 
