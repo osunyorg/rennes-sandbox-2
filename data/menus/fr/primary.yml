@@ -9,4 +9,8 @@ items:
   target: "/vie-politique/"
   kind: page
   children: []
+- title: Se loger
+  target: "/informations-pratiques/se-loger/"
+  kind: page
+  children: []
 
