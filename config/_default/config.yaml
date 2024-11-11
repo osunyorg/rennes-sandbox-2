@@ -1,4 +1,4 @@
-theme: osuny
+theme: rennes-hugo-theme
 enableRobotsTXT: true
 removePathAccents: true
 pagination:
@@ -10,4 +10,4 @@ params:
     active: true
   logo:
     header: ''
-    footer: ''
+    footer: "/assets/images/monogramme-blanc.svg"
