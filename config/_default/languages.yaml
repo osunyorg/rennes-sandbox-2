@@ -9,6 +9,8 @@ fr:
   params:
     social:
   permalinks:
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
   taxonomies:
