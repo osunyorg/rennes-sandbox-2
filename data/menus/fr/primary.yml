@@ -6,11 +6,11 @@ items:
   kind: blank
   children:
   - title: Se loger
-    target: "/se-loger/"
+    target: "/informations-pratiques/se-loger/"
     kind: page
     children: []
   - title: Urbanisme
-    target: "/urbanisme/"
+    target: "/informations-pratiques/urbanisme/"
     kind: page
     children: []
   - title: Projets urbains
