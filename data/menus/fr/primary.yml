@@ -5,10 +5,6 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Urbanisme
-    target: "/informations-pratiques/urbanisme/"
-    kind: page
-    children: []
   - title: Projets urbains
     target: "/informations-pratiques/projets-urbains/"
     kind: page
