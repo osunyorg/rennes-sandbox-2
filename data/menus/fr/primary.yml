@@ -2,13 +2,9 @@
 title: Menu principal
 items:
 - title: Informations pratiques
-  target: ''
-  kind: blank
-  children:
-  - title: Projets urbains
-    target: "/informations-pratiques/projets-urbains/"
-    kind: page
-    children: []
+  target: "/informations-pratiques/"
+  kind: page
+  children: []
 - title: Vie politique
   target: "/vie-politique/"
   kind: page
