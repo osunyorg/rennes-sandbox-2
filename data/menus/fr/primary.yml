@@ -5,10 +5,12 @@ items:
   target: "/informations-pratiques/"
   kind: page
   children: []
+  path: "/pages/informations-pratiques"
   file: content/fr/pages/informations-pratiques/_index.html
 - title: Vie politique
   target: "/vie-politique/"
   kind: page
   children: []
+  path: "/pages/vie-politique"
   file: content/fr/pages/vie-politique/_index.html
 
