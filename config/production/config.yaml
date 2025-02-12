@@ -2,6 +2,11 @@
 
 baseURL: https://sandbox-2.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 7fe2a990-e15a-48d6-b33d-3d6412998777
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
