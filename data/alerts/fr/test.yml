@@ -1,0 +1,13 @@
+---
+title: >-
+  Test
+level: danger
+content: >-
+  <p>Alerte rouge</p>
+button:
+  title: >-
+    Clic
+  url: >-
+    https://metropole.rennes.fr
+  target_blank: true
+---
