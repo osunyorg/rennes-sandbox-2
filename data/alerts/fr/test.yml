@@ -1,9 +1,9 @@
 ---
 title: >-
   Test
-level: danger
+level: warning
 content: >-
-  <p>Alerte rouge</p>
+  <p>Alerte alerte</p>
 button:
   title: >-
     Clic
