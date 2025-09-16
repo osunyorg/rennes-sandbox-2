@@ -1,12 +1,12 @@
 ---
 title: >-
-  Test
+  Test alerte modérée
 level: warning
 content: >-
-  <p>Alerte alerte</p>
+  <p>Ceci est un test. Cliquez pour plus d'infos. </p>
 button:
   title: >-
-    Clic
+    Clic Clic
   url: >-
     https://metropole.rennes.fr
   target_blank: true
