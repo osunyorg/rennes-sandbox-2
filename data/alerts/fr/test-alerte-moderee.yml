@@ -1,7 +1,7 @@
 ---
 title: >-
-  Test alerte modérée
-level: warning
+  Test alerte info
+level: info
 content: >-
   <p>Ceci est un test. Cliquez pour plus d'infos. </p>
 button:
