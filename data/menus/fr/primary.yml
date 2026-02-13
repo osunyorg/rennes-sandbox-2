@@ -2,17 +2,21 @@
 title: Menu principal
 items:
 - title: Informations pratiques
+  slug: informations-pratiques
   target: "/informations-pratiques/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/informations-pratiques"
   file: content/fr/pages/informations-pratiques/_index.html
 - title: Vie politique
+  slug: vie-politique
   target: "/vie-politique/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/vie-politique"
   file: content/fr/pages/vie-politique/_index.html
 
