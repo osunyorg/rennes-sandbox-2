@@ -15,378 +15,378 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/consultations-concertations-et-enquetes-publiques-en-cours/index.html"
+from = "/informations-pratiques/urbanisme/consultations-concertations-et-enquetes-publiques-en-cours/"
 to = "/informations-pratiques/consultations-concertations-et-enquetes-publiques-en-cours/"
 
 [[redirects]]
-from = "/famille-2/caterogie-2/index.html"
+from = "/famille-2/caterogie-2/"
 to = "/actualites/famille-2/caterogie-2/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/tous-les-programmes-immobiliers-neufs/index.html"
+from = "/informations-pratiques/se-loger/tous-les-programmes-immobiliers-neufs/"
 to = "/informations-pratiques/tous-les-programmes-immobiliers-neufs/"
 
 [[redirects]]
-from = "/projets-urbains/les-projets-immobiliers-pres-de-chez-vous-rennes/index.html"
+from = "/projets-urbains/les-projets-immobiliers-pres-de-chez-vous-rennes/"
 to = "/informations-pratiques/les-projets-immobiliers-pres-de-chez-vous-rennes/"
 
 [[redirects]]
-from = "/urbanisme/realiser-des-travaux-sur-le-domaine-public/index.html"
+from = "/urbanisme/realiser-des-travaux-sur-le-domaine-public/"
 to = "/informations-pratiques/realiser-des-travaux-sur-le-domaine-public/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/realiser-des-travaux-sur-le-domaine-public/index.html"
+from = "/informations-pratiques/urbanisme/realiser-des-travaux-sur-le-domaine-public/"
 to = "/informations-pratiques/realiser-des-travaux-sur-le-domaine-public/"
 
 [[redirects]]
-from = "/mairies/index.html"
+from = "/mairies/"
 to = "/organisations/categories/mairies/"
 
 [[redirects]]
-from = "/urbanisme/droits-de-preemption/index.html"
+from = "/urbanisme/droits-de-preemption/"
 to = "/informations-pratiques/droits-de-preemption/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/les-demarches-dassainissement/index.html"
+from = "/informations-pratiques/urbanisme/les-demarches-dassainissement/"
 to = "/informations-pratiques/les-demarches-dassainissement/"
 
 [[redirects]]
-from = "/urbanisme/les-demarches-dassainissement/index.html"
+from = "/urbanisme/les-demarches-dassainissement/"
 to = "/informations-pratiques/les-demarches-dassainissement/"
 
 [[redirects]]
-from = "/quartiers/rennes-centre-thabor-st-helier-a-guerin-baud-chardonnet/index.html"
+from = "/quartiers/rennes-centre-thabor-st-helier-a-guerin-baud-chardonnet/"
 to = "/agenda/quartiers/rennes-centre-thabor-st-helier-a-guerin-baud-chardonnet/"
 
 [[redirects]]
-from = "/se-loger/ecowatt-pour-veiller-sur-sa-consommation-electrique/index.html"
+from = "/se-loger/ecowatt-pour-veiller-sur-sa-consommation-electrique/"
 to = "/informations-pratiques/ecowatt-pour-veiller-sur-sa-consommation-electrique/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/logements-degrades/index.html"
+from = "/informations-pratiques/urbanisme/logements-degrades/"
 to = "/informations-pratiques/logements-degrades/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/patrimoine-des-centres-anciens/index.html"
+from = "/informations-pratiques/urbanisme/patrimoine-des-centres-anciens/"
 to = "/informations-pratiques/patrimoine-des-centres-anciens/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/demander-un-logement-hlm/index.html"
+from = "/informations-pratiques/se-loger/demander-un-logement-hlm/"
 to = "/informations-pratiques/demander-un-logement-hlm/"
 
 [[redirects]]
-from = "/informations-pratiques/projets-urbains/les-projets-immobiliers-pres-de-chez-vous-rennes/index.html"
+from = "/informations-pratiques/projets-urbains/les-projets-immobiliers-pres-de-chez-vous-rennes/"
 to = "/informations-pratiques/les-projets-immobiliers-pres-de-chez-vous-rennes/"
 
 [[redirects]]
-from = "/types-devenement/cinema-projection/index.html"
+from = "/types-devenement/cinema-projection/"
 to = "/agenda/types-devenement/cinema-projection/"
 
 [[redirects]]
-from = "/se-loger/ecotravo-vous-aide-a-renover-votre-logement/index.html"
+from = "/se-loger/ecotravo-vous-aide-a-renover-votre-logement/"
 to = "/informations-pratiques/ecotravo-vous-aide-a-renover-votre-logement/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/les-aides-a-lachat-dun-logement/index.html"
+from = "/informations-pratiques/se-loger/les-aides-a-lachat-dun-logement/"
 to = "/informations-pratiques/les-aides-a-lachat-dun-logement/"
 
 [[redirects]]
-from = "/4bis-information-jeunesse/index.html"
+from = "/4bis-information-jeunesse/"
 to = "/organisations/4bis-information-jeunesse/"
 
 [[redirects]]
-from = "/ecole-maternelle-oscar-leroux/index.html"
+from = "/ecole-maternelle-oscar-leroux/"
 to = "/organisations/ecole-maternelle-oscar-leroux/"
 
 [[redirects]]
-from = "/mairie-de-bourgbarre/index.html"
+from = "/mairie-de-bourgbarre/"
 to = "/organisations/mairie-de-bourgbarre/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/logement-pour-les-jeunes-et-les-etudiants/index.html"
+from = "/informations-pratiques/se-loger/logement-pour-les-jeunes-et-les-etudiants/"
 to = "/informations-pratiques/logement-pour-les-jeunes-et-les-etudiants/"
 
 [[redirects]]
-from = "/se-loger/demander-un-logement-hlm/index.html"
+from = "/se-loger/demander-un-logement-hlm/"
 to = "/informations-pratiques/demander-un-logement-hlm/"
 
 [[redirects]]
-from = "/urbanisme/consultations-concertations-et-enquetes-publiques-en-cours/index.html"
+from = "/urbanisme/consultations-concertations-et-enquetes-publiques-en-cours/"
 to = "/informations-pratiques/consultations-concertations-et-enquetes-publiques-en-cours/"
 
 [[redirects]]
-from = "/urbanisme/les-procedures-participatives-obligatoires-archivees/index.html"
+from = "/urbanisme/les-procedures-participatives-obligatoires-archivees/"
 to = "/informations-pratiques/les-procedures-participatives-obligatoires-archivees/"
 
 [[redirects]]
-from = "/urbanisme/consulter-les-documents-du-plui/index.html"
+from = "/urbanisme/consulter-les-documents-du-plui/"
 to = "/informations-pratiques/consulter-les-documents-du-plui/"
 
 [[redirects]]
-from = "/se-loger/se-loger-a-rennes-quand-on-vieillit/index.html"
+from = "/se-loger/se-loger-a-rennes-quand-on-vieillit/"
 to = "/informations-pratiques/se-loger-a-rennes-quand-on-vieillit/"
 
 [[redirects]]
-from = "/projets-urbains/nouvelles-fabriques-de-la-ville/index.html"
+from = "/projets-urbains/nouvelles-fabriques-de-la-ville/"
 to = "/informations-pratiques/nouvelles-fabriques-de-la-ville/"
 
 [[redirects]]
-from = "/se-loger/tous-les-programmes-immobiliers-neufs/index.html"
+from = "/se-loger/tous-les-programmes-immobiliers-neufs/"
 to = "/informations-pratiques/tous-les-programmes-immobiliers-neufs/"
 
 [[redirects]]
-from = "/urbanisme/regles-durbanisme-a-la-parcelle-nru/index.html"
+from = "/urbanisme/regles-durbanisme-a-la-parcelle-nru/"
 to = "/informations-pratiques/regles-durbanisme-a-la-parcelle-nru/"
 
 [[redirects]]
-from = "/florian-guillanton/index.html"
+from = "/florian-guillanton/"
 to = "/equipe/florian-guillanton/"
 
 [[redirects]]
-from = "/se-loger/sabonner-a-leau-potable/index.html"
+from = "/se-loger/sabonner-a-leau-potable/"
 to = "/informations-pratiques/sabonner-a-leau-potable/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/consulter-les-documents-du-plui/index.html"
+from = "/informations-pratiques/urbanisme/consulter-les-documents-du-plui/"
 to = "/informations-pratiques/consulter-les-documents-du-plui/"
 
 [[redirects]]
-from = "/urbanisme/les-procedures-participatives-obligatoires-en-cours/index.html"
+from = "/urbanisme/les-procedures-participatives-obligatoires-en-cours/"
 to = "/informations-pratiques/les-procedures-participatives-obligatoires-en-cours/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/habitat-participatif/index.html"
+from = "/informations-pratiques/se-loger/habitat-participatif/"
 to = "/informations-pratiques/habitat-participatif/"
 
 [[redirects]]
-from = "/urbanisme/logements-degrades/index.html"
+from = "/urbanisme/logements-degrades/"
 to = "/informations-pratiques/logements-degrades/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/fabrique-citoyenne/index.html"
+from = "/informations-pratiques/urbanisme/fabrique-citoyenne/"
 to = "/informations-pratiques/fabrique-citoyenne/"
 
 [[redirects]]
-from = "/urbanisme/construction-demolition-les-demarches-durbanisme/index.html"
+from = "/urbanisme/construction-demolition-les-demarches-durbanisme/"
 to = "/informations-pratiques/construction-demolition-les-demarches-durbanisme/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/le-reglement-local-de-publicite-intercommunal/index.html"
+from = "/informations-pratiques/urbanisme/le-reglement-local-de-publicite-intercommunal/"
 to = "/informations-pratiques/le-reglement-local-de-publicite-intercommunal/"
 
 [[redirects]]
-from = "/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/index.html"
+from = "/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/"
 to = "/organisations/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/"
 
 [[redirects]]
-from = "/urbanisme/patrimoine-des-centres-anciens/index.html"
+from = "/urbanisme/patrimoine-des-centres-anciens/"
 to = "/informations-pratiques/patrimoine-des-centres-anciens/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/sabonner-a-leau-potable/index.html"
+from = "/informations-pratiques/se-loger/sabonner-a-leau-potable/"
 to = "/informations-pratiques/sabonner-a-leau-potable/"
 
 [[redirects]]
-from = "/informations-pratiques/projets-urbains/sabonner-a-la-newsletter-sur-les-projets-urbains/index.html"
+from = "/informations-pratiques/projets-urbains/sabonner-a-la-newsletter-sur-les-projets-urbains/"
 to = "/informations-pratiques/sabonner-a-la-newsletter-sur-les-projets-urbains/"
 
 [[redirects]]
-from = "/estelle-soleillant/index.html"
+from = "/estelle-soleillant/"
 to = "/equipe/estelle-soleillant/"
 
 [[redirects]]
-from = "/2024-12-03-test/index.html"
+from = "/2024-12-03-test/"
 to = "/actualites/2024-12-03-test/"
 
 [[redirects]]
-from = "/centre-local-d-information-et-de-coordination-clic-noroit/index.html"
+from = "/centre-local-d-information-et-de-coordination-clic-noroit/"
 to = "/organisations/centre-local-d-information-et-de-coordination-clic-noroit/"
 
 [[redirects]]
-from = "/se-loger/testez-votre-connexion-internet/index.html"
+from = "/se-loger/testez-votre-connexion-internet/"
 to = "/informations-pratiques/testez-votre-connexion-internet/"
 
 [[redirects]]
-from = "/agenda/2024/index.html"
+from = "/agenda/2024/"
 to = "/2024/"
 
 [[redirects]]
-from = "/famille-1/categorie-1/index.html"
+from = "/famille-1/categorie-1/"
 to = "/actualites/famille-1/categorie-1/"
 
 [[redirects]]
-from = "/quartiers/index.html"
+from = "/quartiers/"
 to = "/agenda/quartiers/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/ecowatt-pour-veiller-sur-sa-consommation-electrique/index.html"
+from = "/informations-pratiques/se-loger/ecowatt-pour-veiller-sur-sa-consommation-electrique/"
 to = "/informations-pratiques/ecowatt-pour-veiller-sur-sa-consommation-electrique/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/construction-demolition-les-demarches-durbanisme/index.html"
+from = "/informations-pratiques/urbanisme/construction-demolition-les-demarches-durbanisme/"
 to = "/informations-pratiques/construction-demolition-les-demarches-durbanisme/"
 
 [[redirects]]
-from = "/actualites/caterogie-2/index.html"
+from = "/actualites/caterogie-2/"
 to = "/actualites/famille-2/caterogie-2/"
 
 [[redirects]]
-from = "/2025-09-23-actualite-pour-latelier-au-festival-de-linfo-locale/index.html"
+from = "/2025-09-23-actualite-pour-latelier-au-festival-de-linfo-locale/"
 to = "/actualites/2025-09-23-actualite-pour-latelier-au-festival-de-linfo-locale/"
 
 [[redirects]]
-from = "/categories/education/index.html"
+from = "/categories/education/"
 to = "/organisations/categories/education/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/ecotravo-vous-aide-a-renover-votre-logement/index.html"
+from = "/informations-pratiques/se-loger/ecotravo-vous-aide-a-renover-votre-logement/"
 to = "/informations-pratiques/ecotravo-vous-aide-a-renover-votre-logement/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/mieux-comprendre-le-plui-questions-et-reponses/index.html"
+from = "/informations-pratiques/urbanisme/mieux-comprendre-le-plui-questions-et-reponses/"
 to = "/informations-pratiques/mieux-comprendre-le-plui-questions-et-reponses/"
 
 [[redirects]]
-from = "/se-loger/habitat-participatif/index.html"
+from = "/se-loger/habitat-participatif/"
 to = "/informations-pratiques/habitat-participatif/"
 
 [[redirects]]
-from = "/projets-urbains/sabonner-a-la-newsletter-sur-les-projets-urbains/index.html"
+from = "/projets-urbains/sabonner-a-la-newsletter-sur-les-projets-urbains/"
 to = "/informations-pratiques/sabonner-a-la-newsletter-sur-les-projets-urbains/"
 
 [[redirects]]
-from = "/se-loger/les-aides-a-lachat-dun-logement/index.html"
+from = "/se-loger/les-aides-a-lachat-dun-logement/"
 to = "/informations-pratiques/les-aides-a-lachat-dun-logement/"
 
 [[redirects]]
-from = "/se-loger/logement-pour-les-jeunes-et-les-etudiants/index.html"
+from = "/se-loger/logement-pour-les-jeunes-et-les-etudiants/"
 to = "/informations-pratiques/logement-pour-les-jeunes-et-les-etudiants/"
 
 [[redirects]]
-from = "/public/enfant-et-familles/index.html"
+from = "/public/enfant-et-familles/"
 to = "/agenda/public/enfant-et-familles/"
 
 [[redirects]]
-from = "/guillaume-rouan/index.html"
+from = "/guillaume-rouan/"
 to = "/equipe/guillaume-rouan/"
 
 [[redirects]]
-from = "/christophe-panon/actualites/index.html"
+from = "/christophe-panon/actualites/"
 to = "/equipe/christophe-panon/actualites/"
 
 [[redirects]]
-from = "/agenda/2024/10/index.html"
+from = "/agenda/2024/10/"
 to = "/2024/10/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/les-procedures-participatives-obligatoires-en-cours/index.html"
+from = "/informations-pratiques/urbanisme/les-procedures-participatives-obligatoires-en-cours/"
 to = "/informations-pratiques/les-procedures-participatives-obligatoires-en-cours/"
 
 [[redirects]]
-from = "/informations-pratiques/projets-urbains/nouvelles-fabriques-de-la-ville/index.html"
+from = "/informations-pratiques/projets-urbains/nouvelles-fabriques-de-la-ville/"
 to = "/informations-pratiques/nouvelles-fabriques-de-la-ville/"
 
 [[redirects]]
-from = "/types-devenement/index.html"
+from = "/types-devenement/"
 to = "/agenda/types-devenement/"
 
 [[redirects]]
-from = "/projets-urbains/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/index.html"
+from = "/projets-urbains/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/"
 to = "/informations-pratiques/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/"
 
 [[redirects]]
-from = "/matthieu-delsaut/index.html"
+from = "/matthieu-delsaut/"
 to = "/equipe/matthieu-delsaut/"
 
 [[redirects]]
-from = "/urbanisme/le-reglement-local-de-publicite-intercommunal/index.html"
+from = "/urbanisme/le-reglement-local-de-publicite-intercommunal/"
 to = "/informations-pratiques/le-reglement-local-de-publicite-intercommunal/"
 
 [[redirects]]
-from = "/public/index.html"
+from = "/public/"
 to = "/agenda/public/"
 
 [[redirects]]
-from = "/categories/mairies/index.html"
+from = "/categories/mairies/"
 to = "/organisations/categories/mairies/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/droits-de-preemption/index.html"
+from = "/informations-pratiques/urbanisme/droits-de-preemption/"
 to = "/informations-pratiques/droits-de-preemption/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/se-loger-a-rennes-quand-on-vieillit/index.html"
+from = "/informations-pratiques/se-loger/se-loger-a-rennes-quand-on-vieillit/"
 to = "/informations-pratiques/se-loger-a-rennes-quand-on-vieillit/"
 
 [[redirects]]
-from = "/education/index.html"
+from = "/education/"
 to = "/organisations/categories/education/"
 
 [[redirects]]
-from = "/urbanisme/fabrique-citoyenne/index.html"
+from = "/urbanisme/fabrique-citoyenne/"
 to = "/informations-pratiques/fabrique-citoyenne/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/les-procedures-participatives-obligatoires-archivees/index.html"
+from = "/informations-pratiques/urbanisme/les-procedures-participatives-obligatoires-archivees/"
 to = "/informations-pratiques/les-procedures-participatives-obligatoires-archivees/"
 
 [[redirects]]
-from = "/culture-loisirs/index.html"
+from = "/culture-loisirs/"
 to = "/organisations/categories/culture-loisirs/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/referentiel-bas-carbone-mode-demploi/index.html"
+from = "/informations-pratiques/se-loger/referentiel-bas-carbone-mode-demploi/"
 to = "/informations-pratiques/referentiel-bas-carbone-mode-demploi/"
 
 [[redirects]]
-from = "/famille-2/index.html"
+from = "/famille-2/"
 to = "/actualites/famille-2/"
 
 [[redirects]]
-from = "/accueil-de-loisirs-dominique-savio/index.html"
+from = "/accueil-de-loisirs-dominique-savio/"
 to = "/organisations/accueil-de-loisirs-dominique-savio/"
 
 [[redirects]]
-from = "/informations-pratiques/se-loger/testez-votre-connexion-internet/index.html"
+from = "/informations-pratiques/se-loger/testez-votre-connexion-internet/"
 to = "/informations-pratiques/testez-votre-connexion-internet/"
 
 [[redirects]]
-from = "/categories/social-sante/index.html"
+from = "/categories/social-sante/"
 to = "/organisations/categories/social-sante/"
 
 [[redirects]]
-from = "/social-sante/index.html"
+from = "/social-sante/"
 to = "/organisations/categories/social-sante/"
 
 [[redirects]]
-from = "/informations-pratiques/projets-urbains/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/index.html"
+from = "/informations-pratiques/projets-urbains/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/"
 to = "/informations-pratiques/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/"
 
 [[redirects]]
-from = "/urbanisme/mieux-comprendre-le-plui-questions-et-reponses/index.html"
+from = "/urbanisme/mieux-comprendre-le-plui-questions-et-reponses/"
 to = "/informations-pratiques/mieux-comprendre-le-plui-questions-et-reponses/"
 
 [[redirects]]
-from = "/categories/culture-loisirs/index.html"
+from = "/categories/culture-loisirs/"
 to = "/organisations/categories/culture-loisirs/"
 
 [[redirects]]
-from = "/informations-pratiques/urbanisme/regles-durbanisme-a-la-parcelle-nru/index.html"
+from = "/informations-pratiques/urbanisme/regles-durbanisme-a-la-parcelle-nru/"
 to = "/informations-pratiques/regles-durbanisme-a-la-parcelle-nru/"
 
 [[redirects]]
-from = "/famille-3/index.html"
+from = "/famille-3/"
 to = "/actualites/famille-3/"
 
 [[redirects]]
-from = "/se-loger/referentiel-bas-carbone-mode-demploi/index.html"
+from = "/se-loger/referentiel-bas-carbone-mode-demploi/"
 to = "/informations-pratiques/referentiel-bas-carbone-mode-demploi/"
 
 [[redirects]]
-from = "/elisabeth-feuillebois/index.html"
+from = "/elisabeth-feuillebois/"
 to = "/equipe/elisabeth-feuillebois/"
 
 [[redirects]]
-from = "/famille-1/index.html"
+from = "/famille-1/"
 to = "/actualites/famille-1/"
 
