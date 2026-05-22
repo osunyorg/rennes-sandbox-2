@@ -10,7 +10,7 @@ bodyclass: >-
 url: "/le-sprojets-urbains-de-rennes-ville-et-metropole/"
 slug: "le-sprojets-urbains-de-rennes-ville-et-metropole"
 date: 2026-05-22T11:54:48+02:00
-lastmod: 2026-05-22T13:09:13+02:00
+lastmod: 2026-05-22T14:01:38+02:00
 meta:
   hugo:
     permalink: "/le-sprojets-urbains-de-rennes-ville-et-metropole/"
@@ -19,7 +19,7 @@ meta:
     slug: "le-sprojets-urbains-de-rennes-ville-et-metropole"
   dates:
     created_at: 2026-05-22T11:54:48+02:00
-    updated_at: 2026-05-22T13:09:13+02:00
+    updated_at: 2026-05-22T14:01:38+02:00
     published_at: 2026-05-22T11:54:48+02:00
 search:
   id: "a592f740-476b-4932-ab7f-63b6e16fdd5d"
@@ -31,7 +31,8 @@ search:
     Les projets urbains de Rennes, Ville et Métropole
   summary: >-
     <p> Retrouvez les projets urbains majeurs conduits par la Ville de Rennes et  Rennes Métropole : Quais de Vilaine, Halles en communs, Palais du  commerce, La Janais...  </p>
-
+  body: >-
+    <p>Les grands projets  <br> Vos élus  <br>  </p>  <p>er adjoint délégué à l'urbanisme, à l'aménagement durable, à la rénovation urbaine et à la politique des temps</p>  <p>1er vice-président délégué à l'Aménagement et au Climat - Maire d'Acigné</p>  <p> La newsletter sur les projets urbains, Trames  </p>
 
 breadcrumbs:
   - title: >-
@@ -43,7 +44,7 @@ breadcrumbs:
 design:
   full_width: false
   toc:
-    present: false
+    present: true
     offcanvas: false
 
 
@@ -72,17 +73,37 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 0
+  seconds: 12
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: title
+    title: >-
+      Les grands projets
+    slug: >-
+      les-grands-projets
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Les grands projets
+        heading: 2
+
+    data:
+      layout: classic
+
+
   - kind: block
     template: projects
 
 
     ranks:
-      base: 2
-      children: 2
+      base: 3
+      children: 3
     top:
       active: false
 
@@ -118,6 +139,81 @@ contents:
             La Janais : un nouveau pôle d'excellence industrielle
 
       quantity: 3
+
+  - kind: block
+    template: title
+    title: >-
+      Vos élus
+    slug: >-
+      vos-elus
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Vos élus
+        heading: 2
+
+    data:
+      layout: classic
+
+
+  - kind: block
+    template: persons
+
+
+    ranks:
+      base: 3
+      children: 3
+    top:
+      active: false
+
+    data:
+
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: true
+        contact: true
+
+      persons:
+        - permalink: ""
+          path: "/persons/marc-herve"
+          slug: "marc-herve"
+          file: "content/fr/persons/marc-herve.html"
+          role: >-
+            er adjoint délégué à l'urbanisme, à l'aménagement durable, à la rénovation urbaine et à la politique des temps
+        - permalink: "/equipe/olivier-dehaese/"
+          path: "/persons/olivier-dehaese"
+          slug: "olivier-dehaese"
+          file: "content/fr/persons/olivier-dehaese.html"
+          role: >-
+            1er vice-président délégué à l'Aménagement et au Climat - Maire d'Acigné
+      quantity: 2
+
+
+  - kind: block
+    template: title
+    title: >-
+      La newsletter sur les projets urbains, Trames
+    slug: >-
+      la-newsletter-sur-les-projets-urbains-trames
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          La newsletter sur les projets urbains, Trames
+        heading: 2
+
+    data:
+      layout: classic
+
 
 
 ---
