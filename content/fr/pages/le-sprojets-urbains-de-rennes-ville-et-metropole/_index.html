@@ -10,7 +10,7 @@ bodyclass: >-
 url: "/le-sprojets-urbains-de-rennes-ville-et-metropole/"
 slug: "le-sprojets-urbains-de-rennes-ville-et-metropole"
 date: 2026-05-22T11:54:48+02:00
-lastmod: 2026-05-22T14:08:48+02:00
+lastmod: 2026-05-22T14:19:22+02:00
 meta:
   hugo:
     permalink: "/le-sprojets-urbains-de-rennes-ville-et-metropole/"
@@ -19,7 +19,7 @@ meta:
     slug: "le-sprojets-urbains-de-rennes-ville-et-metropole"
   dates:
     created_at: 2026-05-22T11:54:48+02:00
-    updated_at: 2026-05-22T14:08:48+02:00
+    updated_at: 2026-05-22T14:19:22+02:00
     published_at: 2026-05-22T11:54:48+02:00
 search:
   id: "a592f740-476b-4932-ab7f-63b6e16fdd5d"
@@ -32,7 +32,7 @@ search:
   summary: >-
     <p> Retrouvez les projets urbains majeurs conduits par la Ville de Rennes et  Rennes Métropole : Quais de Vilaine, Halles en communs, Palais du  commerce, La Janais...  </p>
   body: >-
-    <p>Découvrir les grands projets  <br> Consulter la carte des projets urbains  <br> Recevoir les dernières informations  <br> Trames, la newsletter sur les projets urbains  <br>Les projets d'urbanisme vous intéressent ? Abonnez-vous à Trames, la  <br>newsletter mensuelle de Rennes Ville et Métropole dédiée à l'aménagement <br> urbain sur le territoire.</p>  <p> Trames, la newsletter sur les projets urbains  <br>Les projets d'urbanisme vous intéressent ? Abonnez-vous à Trames, la  <br>newsletter mensuelle de Rennes Ville et Métropole dédiée à l'aménagement <br> urbain sur le territoire.</p>  <p> Vos élus  <br>  </p>  <p>er adjoint délégué à l'urbanisme, à l'aménagement durable, à la rénovation urbaine et à la politique des temps</p>  <p>1er vice-président délégué à l'Aménagement et au Climat - Maire d'Acigné</p>
+    <p>Découvrir les grands projets  <br> Consulter la carte des projets urbains  <br>   <br>Habitats, espaces publics, infrastructures, développement économique, mobilités... Retrouvez sur notre carte l'ensemble des projets d'aménagements conduits par Rennes Ville et Métropole ces dernières années et dans années à venir.</p>  <p> Comment utiliser la carte ?  <br>Cliquez sur chaque balise pour découvrir le projet en détail : ses caractéristiques, son ambition, son actualité ainsi que des illustrations. Pour un meilleur confort, nous vous invitons à  consulter la carte en pleine page . </p>  <p> Recevoir les dernières informations  <br> Trames, la newsletter sur les projets urbains  <br>Les projets d'urbanisme vous intéressent ? Abonnez-vous à Trames, la  <br>newsletter mensuelle de Rennes Ville et Métropole dédiée à l'aménagement <br> urbain sur le territoire.</p>  <p> Vos élus  <br>  </p>  <p>er adjoint délégué à l'urbanisme, à l'aménagement durable, à la rénovation urbaine et à la politique des temps</p>  <p>1er vice-président délégué à l'Aménagement et au Climat - Maire d'Acigné</p>
 
 breadcrumbs:
   - title: >-
@@ -73,7 +73,7 @@ header_cta:
 
 
 contents_reading_time:
-  seconds: 31
+  seconds: 42
   text: >-
     1 minute
 contents:
@@ -110,13 +110,13 @@ contents:
     data:
       mode: all
       all: true
-      layout: grid
+      layout: list
       options:
-        categories: true
+        categories: false
         image: true
         subtitle: true
         summary: false
-        year: true
+        year: false
 
       projects:
         - permalink: "/projets/2028-les-quais-de-vilaine/"
@@ -161,6 +161,67 @@ contents:
 
 
   - kind: block
+    template: chapter
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      layout: no_background
+      text: >-
+        <p>Habitats, espaces publics, infrastructures, développement économique, mobilités... Retrouvez sur notre carte l'ensemble des projets d'aménagements conduits par Rennes Ville et Métropole ces dernières années et dans années à venir.</p>
+
+
+
+
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      Comment utiliser la carte ?
+    slug: >-
+      comment-utiliser-la-carte
+    ranks:
+      base: 3
+      self: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Comment utiliser la carte ?
+        heading: 3
+
+    data:
+      layout: alt_background
+      text: >-
+        <p>Cliquez sur chaque balise pour découvrir le projet en détail : ses caractéristiques, son ambition, son actualité ainsi que des illustrations.</p><p>Pour un meilleur confort, nous vous invitons à <a href="https://test-mviewer.sig.rennesmetropole.fr/?config=apps/site_internet/projets-urba.xml#" target="_blank" rel="noreferrer">consulter la carte en pleine page <span class="sr-only">(lien externe)</span></a>. </p>
+
+
+
+
+
+
+  - kind: block
+    template: embed
+
+
+    ranks:
+      base: 3
+    top:
+      active: false
+
+    data:
+      code: >-
+        <iframe src="https://mviewer.sig.rennesmetropole.fr/apps/eco/?config=apps/story/projets_urba.xml&mode=u" scrolling="yes" height="800" width="100%" frameborder="yes" title="projets urbains Rennes Ville et Métropole" loading="lazy"></iframe>
+
+
+
+
+  - kind: block
     template: title
     title: >-
       Recevoir les dernières informations
@@ -178,32 +239,6 @@ contents:
 
     data:
       layout: classic
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      Trames, la newsletter sur les projets urbains
-    slug: >-
-      trames-la-newsletter-sur-les-projets-urbains
-    ranks:
-      base: 3
-      self: 3
-    top:
-      active: true
-      title: 
-        value: >-
-          Trames, la newsletter sur les projets urbains
-        heading: 3
-
-    data:
-      layout: alt_background
-      text: >-
-        <p> Les projets d'urbanisme vous intéressent ? Abonnez-vous à Trames, la  newsletter mensuelle de Rennes Ville et Métropole dédiée à l'aménagement  urbain sur le territoire.  </p>
-
-
-
-
 
 
   - kind: block
