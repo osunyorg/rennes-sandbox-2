@@ -151,6 +151,10 @@ from = "/informations-pratiques/urbanisme/consulter-les-documents-du-plui/index.
 to = "/informations-pratiques/consulter-les-documents-du-plui/"
 
 [[redirects]]
+from = "/projets/index.html"
+to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/"
+
+[[redirects]]
 from = "/urbanisme/les-procedures-participatives-obligatoires-en-cours/index.html"
 to = "/informations-pratiques/les-procedures-participatives-obligatoires-en-cours/"
 
