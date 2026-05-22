@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/pages/informations-pratiques"
   file: content/fr/pages/informations-pratiques/_index.html
-- title: Vie politique
-  slug: vie-politique
+- title: Nos actions
+  slug: nos-actions
   target: "/vie-politique/"
   kind: page
   new_tab: false
@@ -19,4 +19,11 @@ items:
   descendants_targets: []
   path: "/pages/vie-politique"
   file: content/fr/pages/vie-politique/_index.html
+- title: Projets urbains
+  slug: projets-urbains
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
