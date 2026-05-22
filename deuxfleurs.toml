@@ -179,6 +179,10 @@ from = "/informations-pratiques/urbanisme/le-reglement-local-de-publicite-interc
 to = "/informations-pratiques/le-reglement-local-de-publicite-intercommunal/"
 
 [[redirects]]
+from = "/projets/2028-les-quais-de-vilaine/index.html"
+to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/2028-les-quais-de-vilaine/"
+
+[[redirects]]
 from = "/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/index.html"
 to = "/organisations/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/"
 
