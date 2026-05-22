@@ -151,6 +151,10 @@ from = "/informations-pratiques/urbanisme/consulter-les-documents-du-plui/index.
 to = "/informations-pratiques/consulter-les-documents-du-plui/"
 
 [[redirects]]
+from = "/projets/2025-la-janais-un-nouveau-pole-dexcellence-industrielle/index.html"
+to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/2025-la-janais-un-nouveau-pole-dexcellence-industrielle/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/"
 
