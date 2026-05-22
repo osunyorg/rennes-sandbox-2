@@ -363,6 +363,10 @@ from = "/social-sante/index.html"
 to = "/organisations/categories/social-sante/"
 
 [[redirects]]
+from = "/projets/2026-les-halles-en-commun/index.html"
+to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/2026-les-halles-en-commun/"
+
+[[redirects]]
 from = "/informations-pratiques/projets-urbains/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/index.html"
 to = "/informations-pratiques/a-voir-pour-integrer-des-acces-directs-vers-les-sites-de-projets-urbains-sites-territoires/"
 
