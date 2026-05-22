@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Informations pratiques
-  slug: informations-pratiques
+- title: Fiches d'informations
+  slug: fiches-d-informations
   target: "/informations-pratiques/"
   kind: page
   new_tab: false
