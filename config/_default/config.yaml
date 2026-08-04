@@ -1,4 +1,5 @@
 theme: rennes-hugo-theme
+_merge: deep
 enableRobotsTXT: true
 removePathAccents: true
 pagination:
