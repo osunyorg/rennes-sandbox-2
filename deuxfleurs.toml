@@ -139,6 +139,10 @@ from = "/urbanisme/regles-durbanisme-a-la-parcelle-nru/index.html"
 to = "/informations-pratiques/regles-durbanisme-a-la-parcelle-nru/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/podcast-gaad-ademp3/"
+
+[[redirects]]
 from = "/florian-guillanton/index.html"
 to = "/equipe/florian-guillanton/"
 
