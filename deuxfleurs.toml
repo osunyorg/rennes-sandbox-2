@@ -95,14 +95,6 @@ from = "/4bis-information-jeunesse/index.html"
 to = "/organisations/4bis-information-jeunesse/"
 
 [[redirects]]
-from = "/ecole-maternelle-oscar-leroux/index.html"
-to = "/organisations/ecole-maternelle-oscar-leroux/"
-
-[[redirects]]
-from = "/mairie-de-bourgbarre/index.html"
-to = "/organisations/mairie-de-bourgbarre/"
-
-[[redirects]]
 from = "/informations-pratiques/se-loger/logement-pour-les-jeunes-et-les-etudiants/index.html"
 to = "/informations-pratiques/logement-pour-les-jeunes-et-les-etudiants/"
 
@@ -191,10 +183,6 @@ from = "/projets/2028-les-quais-de-vilaine/index.html"
 to = "/le-sprojets-urbains-de-rennes-ville-et-metropole/projets/2028-les-quais-de-vilaine/"
 
 [[redirects]]
-from = "/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/index.html"
-to = "/organisations/association-des-bibliotheques-et-sonotheques-en-etablissements-hospitaliers-de-rennes-et-sa-region/"
-
-[[redirects]]
 from = "/urbanisme/patrimoine-des-centres-anciens/index.html"
 to = "/informations-pratiques/patrimoine-des-centres-anciens/"
 
@@ -213,10 +201,6 @@ to = "/equipe/estelle-soleillant/"
 [[redirects]]
 from = "/2024-12-03-test/index.html"
 to = "/actualites/2024-12-03-test/"
-
-[[redirects]]
-from = "/centre-local-d-information-et-de-coordination-clic-noroit/index.html"
-to = "/organisations/centre-local-d-information-et-de-coordination-clic-noroit/"
 
 [[redirects]]
 from = "/se-loger/testez-votre-connexion-internet/index.html"
@@ -357,10 +341,6 @@ to = "/informations-pratiques/referentiel-bas-carbone-mode-demploi/"
 [[redirects]]
 from = "/famille-2/index.html"
 to = "/actualites/famille-2/"
-
-[[redirects]]
-from = "/accueil-de-loisirs-dominique-savio/index.html"
-to = "/organisations/accueil-de-loisirs-dominique-savio/"
 
 [[redirects]]
 from = "/informations-pratiques/se-loger/testez-votre-connexion-internet/index.html"
